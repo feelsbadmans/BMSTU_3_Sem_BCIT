@@ -1,0 +1,9 @@
+C:\Users\Алексей\Desktop\Универ\Prog\3lab4\obj\Debug\3lab4.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Универ\Prog\3lab4\obj\Debug\_3lab4.Form1.resources
+C:\Users\Алексей\Desktop\Универ\Prog\3lab4\obj\Debug\_3lab4.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Универ\Prog\3lab4\obj\Debug\3lab4.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Универ\Prog\3lab4\bin\Debug\3lab4.exe.config
+C:\Users\Алексей\Desktop\Универ\Prog\3lab4\bin\Debug\3lab4.exe
+C:\Users\Алексей\Desktop\Универ\Prog\3lab4\bin\Debug\3lab4.pdb
+C:\Users\Алексей\Desktop\Универ\Prog\3lab4\obj\Debug\3lab4.exe
+C:\Users\Алексей\Desktop\Универ\Prog\3lab4\obj\Debug\3lab4.pdb

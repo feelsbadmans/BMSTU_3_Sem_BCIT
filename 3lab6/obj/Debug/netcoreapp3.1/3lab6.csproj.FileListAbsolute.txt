@@ -1,0 +1,11 @@
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\bin\Debug\netcoreapp3.1\3lab6.exe
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\bin\Debug\netcoreapp3.1\3lab6.deps.json
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\bin\Debug\netcoreapp3.1\3lab6.runtimeconfig.json
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\bin\Debug\netcoreapp3.1\3lab6.runtimeconfig.dev.json
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\bin\Debug\netcoreapp3.1\3lab6.dll
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\bin\Debug\netcoreapp3.1\3lab6.pdb
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\obj\Debug\netcoreapp3.1\3lab6.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\obj\Debug\netcoreapp3.1\3lab6.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\obj\Debug\netcoreapp3.1\3lab6.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\obj\Debug\netcoreapp3.1\3lab6.dll
+C:\Users\Алексей\Desktop\Универ\Prog\3lab6\obj\Debug\netcoreapp3.1\3lab6.pdb
