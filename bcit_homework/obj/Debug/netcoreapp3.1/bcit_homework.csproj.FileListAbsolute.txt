@@ -1,0 +1,11 @@
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\bin\Debug\netcoreapp3.1\bcit_homework.exe
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\bin\Debug\netcoreapp3.1\bcit_homework.deps.json
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\bin\Debug\netcoreapp3.1\bcit_homework.runtimeconfig.json
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\bin\Debug\netcoreapp3.1\bcit_homework.runtimeconfig.dev.json
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\bin\Debug\netcoreapp3.1\bcit_homework.dll
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\bin\Debug\netcoreapp3.1\bcit_homework.pdb
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\obj\Debug\netcoreapp3.1\bcit_homework.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\obj\Debug\netcoreapp3.1\bcit_homework.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\obj\Debug\netcoreapp3.1\bcit_homework.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\obj\Debug\netcoreapp3.1\bcit_homework.dll
+C:\Users\Алексей\Desktop\Универ\Prog\3lab7\obj\Debug\netcoreapp3.1\bcit_homework.pdb
